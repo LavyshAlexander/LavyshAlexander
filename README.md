@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Lavysh Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavyshAlexander)](https://github.com/LavyshAlexander/)
+[![Lavysh Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavyshAlexander&count_private=true&show_icons=true&theme=radical)](https://github.com/LavyshAlexander/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavyshAlexander&langs_count=8&count_private=true)](https://github.com/LavyshAlexander/)
+
