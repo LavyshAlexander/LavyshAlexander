@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, it's Alexander 👋
+
+    💻 Lead Developer
+
+    🌈 Wide range of dev languages including: Golang, TypeScript & C#
+
+    🧩 Frameworks: .NET, React
+
+    ☁️ Cloud Platforms (Serverless): Azure, AWS
+
+    🔁 Agile and DevOps in mind.
+
+    🧱 DDD & Clean Architecture.
+
+    🔬 I like to learn and test .
+
+    🐱 Hobbies include Surfing, Reading, Hiking, Paddle surf, Movies, Mountains and Bicycling
 
 <!--
 **LavyshAlexander/LavyshAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
