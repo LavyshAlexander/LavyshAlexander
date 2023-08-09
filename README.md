@@ -4,8 +4,6 @@
 
     🌈 Wide range of dev languages including: Golang, TypeScript & C#
 
-    🧩 Frameworks: .NET, React
-
     ☁️ Cloud Platforms (Serverless): Azure, AWS
 
     🔁 Agile and DevOps in mind.
