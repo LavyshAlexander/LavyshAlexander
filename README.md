@@ -1,7 +1,5 @@
 ### Hi there, it's Alexander 👋
 
-    💻 Lead Developer
-
     🌈 Wide range of dev languages including: Golang, TypeScript & C#
 
     ☁️ Cloud Platforms (Serverless): Azure, AWS
